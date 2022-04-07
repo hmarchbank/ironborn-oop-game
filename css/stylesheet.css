@@ -6,15 +6,12 @@
 }
 
 .player{
-    width: 20%; /* remove later  */
-    height: 20px; /* remove later  */
     background: rgb(28, 46, 179);
     position: absolute;
 }
 
 .obstacle {
     position: absolute;
-    width: 5%;
     aspect-ratio: 1;
     background: rgb(102, 255, 0);
 }
